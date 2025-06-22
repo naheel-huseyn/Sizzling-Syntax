@@ -1,0 +1,20 @@
+ .theme-color {
+      color: #462009;
+    }
+    .btn-theme {
+      border: 2px solid #462009;
+      color: #462009;
+      transition: 0.3s;
+    }
+
+    .btn-theme:hover {
+      background-color: #462009;
+      color: #fff;
+    }
+    body{
+      overflow-x: hidden;
+    }
+     .svg-divider {
+      position: relative;
+      margin-top: -2px;
+    }

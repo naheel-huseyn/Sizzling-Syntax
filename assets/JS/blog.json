@@ -1,0 +1,110 @@
+[
+    {
+        "id": 31,
+        "heading1": "Cheesy Garlic Bread"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Cheesy Garlic Bread is a savory and crowd-pleasing appetizer that pairs perfectly with pasta dishes, soups, or even as a standalone snack. With its golden, crisp edges, buttery garlic flavor, and gooey melted cheese topping, it’s an irresistible treat you can whip up in just a few minutes."  ,
+        "img":  "garlic bread.jpg"  ,
+        "des1":  "To prepare cheesy garlic bread, you’ll need one fresh baguette or Italian loaf sliced lengthwise, 4 tablespoons of softened unsalted butter, 3–4 garlic cloves finely minced, 1 tablespoon of chopped fresh parsley, 1 cup of shredded mozzarella cheese, and ¼ cup of grated Parmesan cheese. Optionally, add a pinch of salt and red pepper flakes for extra flavor."   ,
+        "des2":  "Start by preheating your oven to 375°F (190°C). In a small bowl, mix the softened butter with minced garlic, chopped parsley, and a pinch of salt. Spread this garlic butter mixture generously over the cut sides of the bread. Sprinkle mozzarella evenly on top, followed by the Parmesan. Place the bread halves on a baking sheet and bake for about 10–12 minutes, or until the cheese is melted and bubbly. For extra crispiness, broil for an additional 1–2 minutes until the edges are golden brown. Let it cool slightly, slice into pieces, and serve warm. This cheesy garlic bread is guaranteed to disappear fast!",
+        "type": "blog"
+
+    },
+    {
+        "id": 32,
+        "heading1": "Crispy Fried Chicken"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Crispy Fried Chicken is the ultimate comfort food — golden, crunchy on the outside and juicy, flavorful on the inside. This all-time favorite is seasoned to perfection, double-dipped, and deep-fried until it reaches a satisfying crunch, making it a guaranteed hit at any meal or gathering."  ,
+        "img":  "fried chicken.jpg"  ,
+        "des1":  "To make crispy fried chicken, you’ll need about 8 pieces of bone-in chicken (drumsticks, thighs, or wings), 2 cups of buttermilk for marinating, 2 cups of all-purpose flour for coating, 1 teaspoon each of salt, black pepper, paprika, garlic powder, and onion powder. You can also add a pinch of cayenne pepper for heat. For frying, you'll need enough vegetable oil to submerge the chicken pieces."   ,
+        "des2":  "Start by marinating the chicken in buttermilk for at least 4 hours or overnight — this tenderizes the meat and enhances the flavor. In a separate bowl, mix the flour with all the seasonings. Remove each piece of chicken from the marinade, letting the excess drip off, then dredge it thoroughly in the seasoned flour mix. For an extra crispy crust, dip the chicken back in the buttermilk and dredge again. Heat the oil in a deep pot to 350°F (175°C) and carefully lower the chicken pieces in, a few at a time. Fry until golden brown and cooked through — about 12–15 minutes, depending on the size. Remove and let drain on a wire rack or paper towels. Serve hot with your favorite dipping sauce or classic sides like coleslaw and mashed potatoes.",
+        "type": "blog"
+
+    },
+    {
+        "id": 33,
+        "heading1": "Smoky Grilled Burgers"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Smoky Grilled Burgers are a summertime favorite packed with bold flavor, juicy texture, and that irresistible char from the grill. Infused with spices and grilled over an open flame, these burgers capture the essence of backyard BBQs and bring out the best in every bite — smoky, savory, and downright satisfying."  ,
+        "img":  "grilled burger.jpg"  ,
+        "des1":  "To prepare smoky grilled burgers, you'll need 1½ pounds of ground beef (preferably 80/20 for juiciness), 1 teaspoon of smoked paprika, 1 teaspoon of garlic powder, 1 teaspoon of onion powder, salt and black pepper to taste, and a few drops of liquid smoke for an extra layer of smokiness (optional but recommended). For serving, prepare burger buns, slices of cheddar cheese, lettuce, tomato, onion, pickles, and your favorite condiments like mayo, ketchup, or BBQ sauce."   ,
+        "des2":  "Begin by placing the ground beef in a mixing bowl and gently combining it with the smoked paprika, garlic powder, onion powder, salt, pepper, and a touch of liquid smoke. Be careful not to overwork the meat. Divide and shape the mixture into evenly sized patties, pressing a small indent in the center of each to prevent puffing during grilling. Preheat your grill to medium-high heat and lightly oil the grates. Grill the patties for about 4–5 minutes per side, or until they've reached your preferred doneness. Just before removing them from the grill, add a slice of cheese on top and let it melt. Toast the buns lightly on the grill for added texture. Assemble your burgers with your chosen toppings, layer on the sauces, and serve hot. Each bite delivers a perfect balance of smoky char, juicy meat, and satisfying crunch.",
+        "type": "blog"
+
+    },
+    {
+        "id": 34,
+        "heading1": "Vanilla Bean Cupcakes"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Vanilla Bean Cupcakes are the epitome of classic elegance — soft, moist, and delicately flavored with real vanilla bean. These little treats are perfect for any celebration or just as an indulgent everyday dessert. With their rich aroma and light crumb, they’re a timeless favorite that’s simple yet unforgettable."  ,
+        "img":  "Vanilla Bean Cupcakes.jpg"  ,
+        "des1":  "To make vanilla bean cupcakes, you’ll need 1½ cups of all-purpose flour, 1½ teaspoons of baking powder, ¼ teaspoon of salt, ½ cup of unsalted butter (softened), ¾ cup of granulated sugar, 2 large eggs, 1 teaspoon of vanilla extract, the seeds from 1 vanilla bean (or 1 extra teaspoon of vanilla extract), and ½ cup of whole milk. For the frosting, prepare ½ cup of unsalted butter (softened), 1½ cups of powdered sugar, 1 teaspoon of vanilla extract, and 2–3 tablespoons of heavy cream for smoothness."   ,
+        "des2":  "Start by preheating your oven to 350°F (175°C) and lining a 12-cup muffin tin with cupcake liners. In a bowl, whisk together the flour, baking powder, and salt. In a separate mixing bowl, beat the butter and sugar until light and fluffy. Add the eggs one at a time, then mix in the vanilla extract and vanilla bean seeds. Alternate adding the flour mixture and milk, beginning and ending with the dry ingredients. Mix just until combined. Divide the batter evenly among the liners and bake for 18–20 minutes, or until a toothpick inserted in the center comes out clean. Let the cupcakes cool completely before frosting. For the frosting, beat the butter until creamy, then slowly add powdered sugar. Mix in the vanilla and enough cream to achieve your desired texture. Pipe or spread the frosting on the cooled cupcakes and garnish with sprinkles or a small vanilla bean pod if desired.",
+        "type": "blog"
+
+    },
+    {
+        "id": 35,
+        "heading1": "Zesty Summer Salad"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Zesty Summer Salad is the ultimate refreshing dish to beat the heat — light, colorful, and packed with bold, tangy flavors. It’s a perfect mix of crisp vegetables, juicy fruits, and a zingy citrus dressing that wakes up your taste buds and leaves you feeling energized. Whether served as a side or enjoyed on its own, this salad brings summer to your plate in every bite."  ,
+        "img":  "Zesty Summer Salad.jpg"  ,
+        "des1":  "To make this vibrant summer salad, you’ll need 1 cup of cherry tomatoes halved, 1 cucumber diced, 1 yellow bell pepper chopped, ½ red onion thinly sliced, 1 avocado cubed, and a handful of fresh arugula or mixed greens. For a fruity twist, add ½ cup of mango chunks or orange segments. The zesty dressing is made by whisking together 2 tablespoons of olive oil, 1 tablespoon of freshly squeezed lemon juice, 1 teaspoon of honey or agave, ½ teaspoon of Dijon mustard, salt, and black pepper to taste. You can also sprinkle in some crumbled feta cheese and fresh herbs like mint or cilantro for extra flavor.."   ,
+        "des2":  "In a large salad bowl, combine the cherry tomatoes, cucumber, bell pepper, red onion, and greens. Gently toss in the avocado and mango chunks, being careful not to mash them. In a separate small bowl or jar, whisk together the olive oil, lemon juice, honey, Dijon mustard, salt, and pepper until the dressing is smooth and emulsified. Pour the dressing over the salad and toss gently to coat all the ingredients evenly. Garnish with crumbled feta cheese and a sprinkle of fresh herbs. Serve immediately for the freshest flavor, or chill for 15 minutes to let the flavors mingle. This salad is a perfect, zesty companion for grilled dishes, picnics, or light lunches.",
+        "type": "blog"
+
+    },
+    {
+        "id": 36,
+        "heading1": "Berry Smoothie Bowl"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Berry Smoothie Bowl is a nutrient-packed, colorful delight that’s as beautiful to look at as it is refreshing to eat. Bursting with the natural sweetness of berries and topped with crunchy, wholesome goodness, it’s the ideal energizing breakfast or midday snack — cool, creamy, and irresistibly satisfying."  ,
+        "img":  "Berry Smoothie Bowl.jpg"  ,
+        "des1":  "To make a berry smoothie bowl, you’ll need 1 frozen banana, ½ cup of frozen strawberries, ½ cup of frozen blueberries, and ½ cup of frozen raspberries. Blend these with ½ cup of Greek yogurt and ¼ cup of your favorite milk — almond, oat, or dairy. For added sweetness, you can include a teaspoon of honey or maple syrup. The toppings are where the fun begins: sliced fresh strawberries, blueberries, banana slices, granola, shredded coconut, chia seeds, and a drizzle of nut butter all make fantastic choices."   ,
+        "des2":  "In a high-speed blender, combine the frozen banana, berries, Greek yogurt, and milk. Blend until smooth and thick — the consistency should be thicker than a regular smoothie, almost like soft-serve ice cream. Pour the mixture into a shallow bowl and smooth the surface with the back of a spoon. Arrange your toppings creatively: line up slices of banana, sprinkle fresh berries, add a handful of granola, and finish with a dusting of chia seeds and a light drizzle of peanut butter or honey. Serve immediately with a spoon and enjoy your bowl of berry bliss.",
+        "type": "blog"
+
+    },
+    {
+        "id": 37,
+        "heading1": "Classic French Toast"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Classic French Toast is a beloved breakfast favorite that combines simplicity with indulgence. Made from slices of bread soaked in a rich, cinnamon-kissed custard and pan-fried until golden brown, it’s crispy on the outside, soft and fluffy on the inside, and perfect for soaking up maple syrup or topping with fresh fruit."  ,
+        "img":  "Classic French Toast.jpg"  ,
+        "des1":  "To make classic French toast, you’ll need 4 thick slices of slightly stale bread (like brioche or challah for the best texture), 2 large eggs, ½ cup of whole milk, 1 tablespoon of granulated sugar, ½ teaspoon of ground cinnamon, 1 teaspoon of vanilla extract, and a pinch of salt. For frying, use a bit of butter or oil. For serving, have maple syrup, powdered sugar, or fresh berries on hand."   ,
+        "des2":  "In a shallow bowl, whisk together the eggs, milk, sugar, cinnamon, vanilla extract, and a pinch of salt until well combined. Dip each slice of bread into the mixture, allowing it to soak for about 10–15 seconds on each side without getting soggy. Heat a non-stick skillet or griddle over medium heat and melt a small pat of butter. Place the soaked bread slices in the pan and cook until golden brown, about 2–3 minutes per side. Once done, transfer to a plate and keep warm while you cook the remaining slices. Serve your French toast warm with a drizzle of maple syrup, a dusting of powdered sugar, or a handful of fresh berries for a delightful finish.",
+        "type": "blog"
+
+    },
+    {
+        "id": 38,
+        "heading1": "Masala Chai Magic"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Masala Chai Magic is more than just tea — it's a warm, aromatic experience that awakens the senses and soothes the soul. This spiced Indian tea blends robust black tea with a medley of fragrant spices, simmered gently in milk and sweetened to perfection. Each sip offers a cozy burst of flavor that’s bold, comforting, and timeless — a true celebration of tradition in a cup."  ,
+        "img":  "Masala Chai Magic.jpg"  ,
+        "des1":  "To create Masala Chai, you’ll need 2 cups of water, 1 cup of whole milk (or dairy-free alternative), 2 teaspoons of loose black tea leaves or 2 tea bags, 1–2 teaspoons of sugar (adjust to taste), and a mix of fresh or ground spices — typically 2 crushed green cardamom pods, 1 small cinnamon stick, 2–3 cloves, 1 thin slice of fresh ginger, and a few black peppercorns. You can also add a pinch of fennel seeds or star anise for a deeper flavor twist."   ,
+        "des2":  "Begin by adding the water and all the spices to a small saucepan. Bring it to a boil and let it simmer for 3–4 minutes, allowing the spices to release their flavors. Next, stir in the tea leaves and continue simmering for another 2 minutes. Add the milk and sugar, bring the mixture to a gentle boil again, and then reduce the heat to a low simmer for about 5 minutes. Watch carefully to prevent it from boiling over. Once the chai turns a rich golden-brown and smells beautifully fragrant, strain it into cups and serve piping hot. Enjoy your Masala Chai Magic on a rainy afternoon, with snacks, or simply as a soulful break in your day.",
+        "type": "blog"
+
+    },
+    {
+        "id": 39,
+        "heading1": "Spicy Paratha Rolls"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Spicy Paratha Rolls are a beloved South Asian street food — bold, satisfying wraps filled with spicy, marinated meat or flavorful veggies rolled up in crispy, flaky parathas. Bursting with textures and layered spices, these rolls are a delicious fusion of comfort and convenience, perfect for lunch, dinner, or an on-the-go snack."  ,
+        "img":  "Spicy Paratha Rolls.jpg"  ,
+        "des1":  "To make spicy paratha rolls, you’ll need 2–3 freshly made or frozen parathas, 300 grams of boneless chicken (or paneer for a vegetarian option), 1 tablespoon of yogurt, 1 tablespoon of lemon juice, 1 teaspoon each of ginger-garlic paste, red chili powder, garam masala, cumin powder, and turmeric. For the filling, you’ll also need ½ sliced red onion, julienned cucumber and carrots, a few mint leaves, and green chutney or mayonnaise. Don’t forget a bit of oil for frying and a pinch of salt."   ,
+        "des2":  "Start by marinating the chicken in yogurt, lemon juice, ginger-garlic paste, and all the dry spices. Let it sit for at least 30 minutes to absorb the flavors. In a hot pan with a little oil, cook the chicken until tender and slightly charred. Warm the parathas on a skillet until golden and crisp on both sides. To assemble the rolls, place the cooked chicken in the center of each paratha, top with sliced onions, fresh veggies, and a drizzle of green chutney or mayo. Optionally, wrap one end in parchment for easy handling. Roll it up tightly and serve hot — spicy, juicy, and utterly delicious.",
+        "type": "blog"
+
+    }
+]

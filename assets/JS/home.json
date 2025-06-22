@@ -1,0 +1,136 @@
+[
+    {
+        "id": 19,
+        "heading1": "Creamy Garlic Pasta"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "A luxurious and comforting pasta dish made with simple pantry ingredients, Creamy Garlic Pasta is perfect for a cozy evening or an elegant dinner without the fuss. This velvety dish brings together the richness of cream, the punch of garlic, and the depth of Parmesan into one irresistible plate."  ,
+        "img":  "creamy garlic pasta.jpg"  ,
+        "des1":  "To prepare this delicious pasta, you’ll need about 200 grams of fettuccine or spaghetti, two tablespoons of unsalted butter, and four to five cloves of garlic, finely minced. You’ll also need one cup of heavy cream and half a cup of freshly grated Parmesan cheese. Season the sauce with a pinch of salt and freshly ground black pepper to taste. For garnish, chop up a bit of fresh parsley. If you prefer extra heat or protein, feel free to add red chili flakes or grilled chicken as optional toppings."   ,
+        "des2":  "Start by boiling your pasta in salted water according to the package instructions until it’s just al dente. While the pasta cooks, melt the butter in a large skillet over medium heat. Add the minced garlic and gently sauté it for a minute or two until it becomes fragrant—be careful not to brown it. Pour in the heavy cream and let it come to a gentle simmer, then stir in the Parmesan cheese until it melts into a smooth, creamy sauce. Adjust the seasoning with salt and pepper. Once the pasta is cooked, drain it and add it directly into the sauce. Toss everything together until the pasta is thoroughly coated in the creamy garlic goodness. Plate it up, sprinkle with fresh parsley, and enjoy while warm. Optional chili flakes or grilled chicken on top will add a nice twist!",
+        "type": "home"
+
+    },
+    {
+        "id": 20,
+        "heading1": "Spicy Chicken Biryani"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Spicy Chicken Biryani is a classic South Asian rice dish, layered with fragrant basmati rice, marinated chicken, aromatic spices, and herbs. Known for its rich flavor and festive appeal, biryani is a celebration on a plate — bold, comforting, and incredibly satisfying."  ,
+        "img":  "biryani.jpg"  ,
+        "des1":  "To prepare this flavorful biryani, you will need 500 grams of chicken (preferably bone-in), one and a half cups of basmati rice, one large onion finely sliced, one chopped tomato, and half a cup of plain yogurt. You’ll also need two tablespoons of biryani masala, one teaspoon of red chili powder, half a teaspoon of turmeric powder, and one tablespoon of ginger-garlic paste. For aroma, use a few whole spices like one bay leaf, four cloves, two green cardamoms, and a cinnamon stick. Fresh coriander and mint leaves (a handful each), three tablespoons of oil or ghee, and salt to taste round out the essentials. You may also need a few strands of saffron soaked in warm milk for finishing."   ,
+        "des2":  "Begin by rinsing the basmati rice thoroughly and soaking it for 30 minutes. In a mixing bowl, marinate the chicken with yogurt, biryani masala, red chili powder, turmeric, ginger-garlic paste, and a little salt. Let it rest for at least 1 hour. Meanwhile, in a heavy-bottomed pot, heat oil or ghee and add the whole spices. Once they begin to sizzle, add the sliced onions and sauté until golden brown. Add the chopped tomatoes and cook until soft. Then add the marinated chicken and cook on medium heat until the chicken is well browned and cooked through. In a separate pot, boil the soaked rice in salted water until it's 70% cooked, then drain. Now, layer the chicken mixture at the bottom of a pot, followed by a layer of rice. Sprinkle chopped mint, coriander, and saffron milk over the top. Cover tightly and cook on low heat (dum) for about 20–25 minutes until everything is aromatic and infused. Fluff gently with a fork before serving hot with raita or salad.",
+        "type": "home"
+    },
+    {
+        "id": 21,
+        "heading1": "Berry Banana Smoothie"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "A deliciously creamy and energizing drink, the Berry Banana Smoothie is a perfect blend of sweet bananas and tangy mixed berries — ideal for breakfast, post-workout, or a healthy snack on the go. It’s packed with antioxidants, natural sweetness, and fruity goodness in every sip."  ,
+        "img":  "berry banana smoothie.jpg"  ,
+        "des1":  "To make this smoothie, you’ll need one ripe banana, one cup of mixed berries (such as strawberries, blueberries, raspberries, or blackberries — fresh or frozen), and half a cup of plain or vanilla yogurt. For extra creaminess, add half a cup of milk or a plant-based alternative like almond or oat milk. A tablespoon of honey or maple syrup can be added for sweetness, and a few ice cubes will make it chilled and refreshing."   ,
+        "des2":  "Start by peeling the banana and placing it in a blender along with the mixed berries, yogurt, and milk. If you're using frozen berries, there’s no need for additional ice; otherwise, toss in a few ice cubes. Blend everything on high speed for 30–60 seconds, or until the mixture becomes completely smooth and creamy. Taste and add honey or maple syrup if you prefer it sweeter. Pour the smoothie into a tall glass, garnish with a few extra berries or a mint leaf if desired, and enjoy it cold. It’s a healthy treat that’s quick, easy, and bursting with flavor."   ,
+        "type": "home"
+    },
+    {
+        "id": 22,
+        "heading1": "Avocado Salad"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Avocado Salad is a light, nutritious, and vibrant dish that's both satisfying and incredibly simple to prepare. With creamy avocado, crisp vegetables, and a zesty dressing, this salad is perfect for a quick lunch, a side dish, or a healthy snack any time of day."  ,
+        "img":  "avocado salad.jpg"  ,
+        "des1":  "To make this refreshing salad, you'll need two ripe avocados, diced into bite-sized pieces, along with one cup of cherry tomatoes sliced in halves, and half a red onion thinly sliced. Add a small cucumber (optional) for crunch and a handful of fresh cilantro or parsley for herbaceous flavor. For the dressing, you’ll need two tablespoons of olive oil, the juice of one lemon or lime, a pinch of salt, and freshly ground black pepper to taste."   ,
+        "des2":  "Start by gently tossing the diced avocado with the sliced cherry tomatoes, red onion, cucumber (if using), and fresh herbs in a large salad bowl. In a small separate bowl, whisk together the olive oil, lemon or lime juice, salt, and pepper until well combined. Drizzle the dressing over the avocado mixture and toss gently to coat everything evenly, being careful not to mash the avocado. Serve immediately for the best texture and flavor. This salad is creamy, tangy, and full of fresh textures — perfect on its own or alongside grilled chicken or seafood." ,
+        "type": "home"
+    },
+    {
+        "id": 23,
+        "heading1": "Classic Beef Burger"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "A timeless favorite, the Classic Beef Burger combines juicy seasoned beef patties with crisp vegetables, melty cheese, and a soft toasted bun. It's simple, satisfying, and delivers that mouthwatering, homemade burger experience that rivals any restaurant."  ,
+        "img":  "beef burger.jpg"  ,
+        "des1":  "To make a classic beef burger, you’ll need 500 grams (about 1 lb) of ground beef, preferably 80/20 lean-to-fat ratio for juiciness. Season the beef with salt, black pepper, a teaspoon of garlic powder, and a dash of Worcestershire sauce. You’ll also need burger buns, a few slices of cheddar or American cheese, lettuce leaves, tomato slices, red onion rings, and pickles. For the condiments, prepare ketchup, mustard, and mayonnaise as per your taste. Optionally, you can add a fried egg or crispy bacon for extra indulgence."   ,
+        "des2":  "Begin by gently mixing the ground beef with the seasonings, being careful not to overwork the meat. Divide the mixture into equal portions and shape into flat, round patties slightly wider than your buns. Heat a skillet or grill over medium-high heat, lightly oil the surface, and cook the patties for about 3–4 minutes per side, or until they reach your desired doneness. In the last minute of cooking, place a slice of cheese on each patty and cover to melt. Meanwhile, lightly toast the burger buns until golden. Assemble the burgers by spreading mayonnaise, ketchup, or mustard on the bun base, followed by lettuce, the beef patty, tomato, onion, and pickles. Cap with the top bun and serve hot with fries or a chilled beverage. This burger is hearty, flavorful, and a guaranteed crowd-pleaser." , 
+       "type": "home"
+    },
+    {
+        "id": 24,
+        "heading1": "Chocolate Fudge Cake"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Chocolate Fudge Cake is the ultimate dessert for chocolate lovers — dense, moist, and decadently rich with layers of smooth fudge frosting. Whether served warm with ice cream or as a show-stopping centerpiece for celebrations, this cake delivers deep cocoa flavor and melt-in-your-mouth texture in every bite."  ,
+        "img":  "chocolate fudge cake.jpg"  ,
+        "des1":  "To make this chocolate fudge cake, you’ll need 1¾ cups of all-purpose flour, ¾ cup of unsweetened cocoa powder, 2 cups of sugar, 2 teaspoons of baking soda, 1 teaspoon of baking powder, and ½ teaspoon of salt. For the wet ingredients, use 2 large eggs, 1 cup of buttermilk, ½ cup of vegetable oil, and 2 teaspoons of vanilla extract. You’ll also need 1 cup of hot brewed coffee or hot water, which enhances the chocolate flavor. For the fudge frosting, gather 1 cup of heavy cream, 2 cups of semi-sweet chocolate chips, and 2 tablespoons of butter."   ,
+        "des2":  "Start by preheating your oven to 350°F (175°C) and greasing two 9-inch round cake pans. In a large mixing bowl, sift together the flour, cocoa powder, sugar, baking soda, baking powder, and salt. In another bowl, whisk the eggs with the buttermilk, oil, and vanilla extract until smooth. Gradually add the wet ingredients to the dry ingredients and mix well. Carefully pour in the hot coffee and stir until the batter is thin and fully combined. Divide the batter evenly between the prepared pans and bake for 30–35 minutes, or until a toothpick inserted into the center comes out clean. Let the cakes cool completely.To prepare the fudge frosting, heat the cream in a saucepan just until it begins to simmer, then pour it over the chocolate chips and butter in a heatproof bowl. Let it sit for a minute before stirring until smooth and glossy. Allow the fudge to cool until spreadable. Once the cakes are completely cooled, spread a generous layer of frosting between the layers and over the top and sides of the cake. Serve as is, or garnish with chocolate shavings, berries, or a dusting of powdered sugar for an extra touch of elegance."  ,
+        "type": "home"
+    },
+    {
+        "id": 25,
+        "heading1": "Cinnamon Sugar Donuts"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Cinnamon Sugar Donuts are soft, fluffy, and coated in a sparkling blanket of cinnamon sweetness. These homemade treats are perfect for breakfast, brunch, or an afternoon pick-me-up. Baked or fried, they bring classic comfort and nostalgia in every bite."  ,
+        "img":  "donut.jpeg"  ,
+        "des1":  "To make cinnamon sugar donuts, you'll need 2 cups of all-purpose flour, ½ cup of granulated sugar, 2 teaspoons of baking powder, ½ teaspoon of salt, 1 teaspoon of ground cinnamon, and a pinch of nutmeg for warmth. For the wet ingredients, use ¾ cup of milk, 2 eggs, 2 tablespoons of melted butter, and 1 teaspoon of vanilla extract. For the coating, prepare ½ cup of sugar mixed with 1 tablespoon of cinnamon, and a little extra melted butter for brushing or dipping the donuts."   ,
+        "des2":  "Start by preheating your oven to 350°F (175°C) if baking, or heating oil to 350°F in a deep pot if frying. In a large bowl, whisk together the flour, sugar, baking powder, salt, cinnamon, and nutmeg. In a separate bowl, beat the eggs with milk, melted butter, and vanilla. Gently combine the wet and dry ingredients until a soft dough forms — be careful not to overmix. For baked donuts, spoon the batter into a greased donut pan and bake for 10–12 minutes or until golden and firm. For fried donuts, roll out the dough, cut into donut shapes, and fry until golden brown on both sides. Once cooked, brush each donut with melted butter and immediately roll it in the cinnamon sugar mixture while still warm. Serve fresh for the best texture — light on the inside, crisp on the outside, and full of cozy flavor." ,
+        "type": "home" 
+    },
+    {
+        "id": 26,
+        "heading1": "Margherita Pizza"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Margherita Pizza is a simple yet iconic Italian dish that captures the essence of fresh, quality ingredients. With a thin, crisp crust, a vibrant tomato sauce, creamy mozzarella, and fragrant basil leaves, this pizza delivers a perfect balance of flavor in every bite. It’s light, fresh, and absolutely irresistible when served hot from the oven."  ,
+        "img":  "Margherita Pizza.jpg"  ,
+        "des1":  "To make a classic Margherita pizza, you’ll need one ball of pizza dough (homemade or store-bought), half a cup of good-quality tomato sauce or crushed San Marzano tomatoes, 200 grams of fresh mozzarella cheese sliced or torn into chunks, a few fresh basil leaves, and two tablespoons of extra virgin olive oil. You’ll also need a pinch of salt and optionally, a dusting of cornmeal or flour for stretching the dough and preventing sticking."   ,
+        "des2":  "Begin by preheating your oven to the highest temperature possible, ideally 475–500°F (245–260°C), and place a pizza stone or baking sheet inside to heat up. On a lightly floured surface, stretch the pizza dough into a thin, round base. Carefully transfer it onto a sheet of parchment paper or a floured pizza peel. Spread the tomato sauce evenly over the surface, leaving a small border around the edges. Distribute the mozzarella evenly over the sauce and drizzle with olive oil. Slide the pizza onto the preheated stone or baking sheet and bake for 7–10 minutes, or until the crust is golden and the cheese is bubbling and slightly browned. Remove from the oven and top with fresh basil leaves before slicing and serving. Enjoy the simplicity and authentic flavor of Italy in every bite." ,
+        "type": "home"
+    },
+    {
+        "id": 27,
+        "heading1": " Spicy Miso Ramen"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "A luxurious and comforting pasta dish made with simple pantry ingredients, Creamy Garlic Pasta is perfect for a cozy evening or an elegant dinner without the fuss. This velvety dish brings together the richness of cream, the punch of garlic, and the depth of Parmesan into one irresistible plate."  ,
+        "img":  "miso ramen.jpg"  ,
+        "des1":  "To make a delicious bowl of spicy miso ramen, you'll need 2 packs of fresh or dried ramen noodles, 1 tablespoon of sesame oil, 2 cloves of garlic (minced), 1 teaspoon of ginger (grated), and 2 tablespoons of miso paste (white or red). You’ll also need 1 tablespoon of soy sauce, 1 tablespoon of chili paste or Sriracha (adjust to heat preference), and 3 cups of chicken or vegetable broth. For toppings, gather soft-boiled eggs, sliced green onions, corn kernels, sautéed mushrooms, and bok choy or spinach. A drizzle of chili oil or sesame seeds can add the perfect finishing touch."   ,
+        "des2":  "Begin by heating the sesame oil in a pot over medium heat. Add the garlic and ginger and sauté until fragrant, about a minute. Stir in the miso paste and chili paste, mixing well to form a thick, aromatic base. Slowly add the broth while stirring to dissolve the miso completely. Bring the broth to a gentle simmer, then add the soy sauce and let it cook for a few more minutes to deepen the flavor. Meanwhile, cook the ramen noodles separately according to package instructions and set them aside. When ready to serve, divide the noodles between bowls and pour the hot miso broth over them. Top each bowl with your favorite garnishes like a soft-boiled egg, corn, mushrooms, greens, and scallions. Finish with a swirl of chili oil or sesame seeds for extra depth and visual appeal. Serve hot and enjoy the spicy, savory richness that defines authentic miso ramen." ,
+        "type": "home"
+    },
+    {
+        "id": 28,
+        "heading1": " Tomato Basil Soup"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Tomato Basil Soup is a timeless comfort food that’s both simple and deeply satisfying. Made with fresh tomatoes, aromatic basil, and a velvety smooth texture, this soup is perfect on its own or paired with a warm, cheesy grilled sandwich. It's light, nourishing, and bursts with garden-fresh flavor."  ,
+        "img":  "Tomato Basil Soup.jpg"  ,
+        "des1":  "To prepare this soothing soup, you’ll need about 6 ripe tomatoes (or one 28 oz can of whole peeled tomatoes), 1 medium onion finely chopped, 2 cloves of garlic minced, and 2 tablespoons of olive oil. You’ll also need 1½ cups of vegetable or chicken broth, a handful of fresh basil leaves, salt and black pepper to taste, and optionally 1 teaspoon of sugar to balance acidity. For creaminess, add ¼ cup of heavy cream or coconut milk, and for garnish, keep a few fresh basil leaves and a drizzle of cream aside."   ,
+        "des2":  "Begin by heating the olive oil in a large pot over medium heat. Add the chopped onion and garlic, and sauté until translucent and fragrant. If using fresh tomatoes, blanch, peel, and roughly chop them before adding to the pot. Stir in the tomatoes along with broth, salt, pepper, and sugar if using. Bring the mixture to a boil, then reduce the heat and let it simmer for 15–20 minutes, allowing the flavors to blend. Add fresh basil during the last few minutes of simmering. Once cooked, use an immersion blender to puree the soup directly in the pot or transfer it to a blender in batches until smooth. Stir in the cream and adjust seasoning as needed. Serve hot, garnished with basil and a swirl of cream — perfect for dipping warm crusty bread or grilled cheese." ,
+       "type": "home"
+    },
+    {
+        "id": 29,
+        "heading1": " Avocado Quinoa Salad"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Avocado Quinoa Salad is a vibrant and healthy dish loaded with wholesome ingredients and bold flavors. It’s light yet filling, and the perfect balance of creamy avocado, fluffy quinoa, fresh vegetables, and a zesty dressing. Whether you serve it as a light lunch, a side dish, or a meal prep staple, this salad is as delicious as it is nourishing."  ,
+        "img":  "Avocado Quinoa Salad.jpg"  ,
+        "des1":  "To make this refreshing salad, you’ll need 1 cup of cooked quinoa (cooled), 1 ripe avocado diced, ½ cup of cherry tomatoes halved, ¼ cup of finely diced red onion, and ½ a cucumber chopped. Add a handful of fresh chopped parsley or cilantro for brightness. For the dressing, you’ll need 2 tablespoons of olive oil, the juice of 1 lemon or lime, ½ teaspoon of cumin, salt, and pepper to taste. Optionally, toss in some crumbled feta or a few chickpeas for extra protein and flavor."   ,
+        "des2":  "Begin by cooking the quinoa according to package instructions and letting it cool completely. In a large bowl, combine the cooked quinoa, diced avocado, cherry tomatoes, red onion, cucumber, and herbs. In a separate small bowl, whisk together the olive oil, lemon juice, cumin, salt, and pepper until well combined. Pour the dressing over the quinoa mixture and gently toss everything together, being careful not to mash the avocado. Let the salad sit for 10–15 minutes to absorb the flavors before serving. It’s fresh, wholesome, and perfect as a standalone dish or a flavorful side." ,
+        "type": "home"
+    },
+    {
+        "id": 30,
+        "heading1": "Red Velvet Cake"  ,
+        "heading2": "Ingredients:"    ,
+        "heading3": "Instructions:"       ,
+        "paragraph":  "Red Velvet Cake is a classic dessert known for its vibrant red color, ultra-moist texture, and slight cocoa flavor, all perfectly balanced by a silky cream cheese frosting. It’s not just a cake — it’s a showstopper for special occasions or a treat for anyone who loves the combination of beauty and indulgence."  ,
+        "img":  "Red Velvet Cake.jpg"  ,
+        "des1":  "To make this luscious red velvet cake, you’ll need 2½ cups of all-purpose flour, 2 tablespoons of unsweetened cocoa powder, 1 teaspoon of baking soda, and ½ teaspoon of salt. For the wet ingredients, prepare 1½ cups of granulated sugar, 1 cup of vegetable oil, 2 large eggs, 1 cup of buttermilk, 1 teaspoon of white vinegar, 1 teaspoon of vanilla extract, and 1–2 tablespoons of red food coloring. For the frosting, gather 8 oz of cream cheese, ½ cup of unsalted butter (softened), 2–3 cups of powdered sugar, and 1 teaspoon of vanilla extract."   ,
+        "des2":  "Preheat your oven to 350°F (175°C) and grease and flour two 9-inch round cake pans. In a bowl, sift together the flour, cocoa powder, baking soda, and salt. In another large mixing bowl, beat the sugar and oil together until combined. Add the eggs one at a time, then mix in the buttermilk, vinegar, vanilla, and red food coloring. Gradually mix in the dry ingredients until a smooth, thick batter forms. Divide the batter evenly between the pans and bake for 30–35 minutes or until a toothpick inserted in the center comes out clean. Let the cakes cool completely before frosting.To make the cream cheese frosting, beat the softened cream cheese and butter together until creamy. Slowly add the powdered sugar, one cup at a time, and mix until smooth and fluffy. Add the vanilla extract and beat again. Once the cakes have cooled, frost the top of one layer, place the second cake on top, and cover the entire cake with the frosting. Decorate with cake crumbs or berries if desired. This cake is velvety, rich, and beautifully balanced — perfect for any celebration or a luxurious treat at home." ,
+        "type": "home"
+    }
+   
+]

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<!-- font awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <!-- jquery cdn -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!-- google fonts  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playwrite+RO:wght@100..400&family=Raleway:ital,wght@1,100..900&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+ <!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <!-- navbar css -->
+<link rel="stylesheet" href="assets/styling/navbar.css">
+    <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #333;
+    }
+
+    .content {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    .content img {
+      width: 100%;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+
+    .map-section {
+      margin-top: 40px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 300px;
+      border: none;
+      border-radius: 8px;
+    }
+
+    .trace-btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 12px 24px;
+      background-color: #e50914;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      font-weight: bold;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+
+    .trace-btn:hover {
+      background-color: #b20710;
+    }
+.social-icon {
+    transition: color 0.3s ease;
+  }
+
+  .social-icon:hover {
+    color: #e61818d2; /* Bright red */
+  }
+  /* save share css */
+.save-share-wrapper {
+  display: flex;
+  gap: 15px;
+  margin: 20px 0;
+  align-items: center;
+  position: relative;
+}
+
+.icon-btn {
+  background-color: #e0e0e0;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon-btn:hover {
+  background-color: #ccc;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 45px;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  min-width: 160px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 10;
+}
+
+.dropdown-menu a {
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+</style>
+</head>
+<body>
+      <header class="header"></header>
+
+<div class="content container py-4">
+  <!-- Author & Country -->
+  <p class="text-muted">
+    <strong>By Sizzling Syntax</strong> |
+    <span id="article-country" class="text-uppercase"></span>
+  </p>
+
+  <!-- Main Heading -->
+  <h1 class="fw-bold mb-4" id="article-heading1"></h1>
+
+  <!-- Save/Share Buttons -->
+  <div class="save-share-wrapper mb-4 d-flex gap-3">
+    <button class="btn btn-outline-dark btn-sm icon-btn" title="Save Article">
+      <i class="fa-regular fa-bookmark"></i> Save
+    </button>
+    <div class="dropdown">
+      <button class="btn btn-outline-dark btn-sm dropdown-toggle icon-btn" title="Share Article" data-bs-toggle="dropdown">
+        <i class="fa-solid fa-share-nodes"></i> Share
+      </button>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
+        <li><a class="dropdown-item" href="#" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
+        <li><a class="dropdown-item" href="#" target="_blank"><i class="fab fa-facebook"></i> Facebook</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Featured Image -->
+  <img id="article-img1" src="" alt="Recipe Image" class="img-fluid rounded shadow-sm mb-4" style="max-width: 400px; height: auto;" />
+
+  <!-- Ingredients -->
+  <h4 class="text-theme fw-semibold">Ingredients</h4>
+  <p id="article-des1" class="mb-4"></p>
+
+  <!-- Instructions -->
+  <h4 class="text-theme fw-semibold">Instructions</h4>
+  <p id="article-des2" class="mb-4"></p>
+</div>
+
+<!-- Footer -->
+<footer class="bg-light text-center py-4 border-top">
+  <p class="mb-0">&copy; 2025 Sizzling Syntax | Created by Me</p>
+</footer>
+
+
+
+<script src="assets/JS/article.js"></script>
+<script src="assets/JS/home article.js"></script>
+<script src="assets/JS/blog article.js"></script>
+<script src="assets/JS/navbar.js"></script>
+</body>
+</html>

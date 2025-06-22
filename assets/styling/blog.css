@@ -1,0 +1,37 @@
+.blog-post {
+      margin-bottom: 60px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 40px;
+    }
+
+    .blog-img {
+      max-height: 320px;
+      width: 100%;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .btn-theme {
+      border: 2px solid #462009;
+      color: #462009;
+      transition: 0.3s ease;
+    }
+
+    .btn-theme:hover {
+      background-color: #462009;
+      color: #fff;
+    }
+
+    @media (max-width: 768px) {
+      .blog-post {
+        flex-direction: column !important;
+        text-align: center;
+      }
+    }
+    body{
+      overflow-x: hidden;
+    }
+     .svg-divider {
+      position: relative;
+      margin-top: -2px;
+    }

@@ -1,0 +1,27 @@
+ .card img {
+      height: 200px;
+      object-fit: cover;
+    }
+   .btn-theme-outline {
+  border: 1.5px solid #462009;
+  color: #462009;
+  transition: 0.3s ease;
+}
+
+.btn-theme-outline:hover {
+  background-color: #462009;
+  color: white;
+}
+ .svg-divider {
+      position: relative;
+      margin-top: -2px;
+    }
+    p {
+      font-size: large;
+    }
+     .short-text {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
