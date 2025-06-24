@@ -18,16 +18,6 @@
         <a href="article.html?id=${recipe.id}" class="btn btn-theme btn-sm">Read More</a>
       </div>
     </div>
-    <div class="blog-post row align-items-center"  data-aos-delay="100">
-      <div class="col-md-6 order-md-2">
-        <img src="assets/images/${recipe.img}" alt="Pasta" class="img-fluid blog-img mb-3 mb-md-0" />
-      </div>
-      <div class="col-md-6 pe-md-5">
-        <h3 class="theme-color">${recipe.heading1}</h3>
-        <p>>${recipe.paragraph}</p>
-        <a href="article.html?id=${recipe.id}" class="btn btn-theme btn-sm">Read More</a>
-      </div>
-    </div>
       `;
       
     });
